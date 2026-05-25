@@ -6,7 +6,7 @@ LS-HDIB: A Large Scale Handwritten Document Image Binarization Dataset
 ## Setup and Install
 
 ```script
-git clone https://github.com/kaustubh-sadekar/LS-HDIB.git
+git clone https://github.com/nishantananda/LS-HDIB.git
 cd LS-HDIB/
 pip install -r requirements.txt
 ```
