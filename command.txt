@@ -1,0 +1,1 @@
+python run.py cpu input_2.jpg unet_best_weights.pth
